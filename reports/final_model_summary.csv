@@ -1,0 +1,3 @@
+Task,Best Model,Primary Metric,Metric Value
+Anomaly Detection,XGBoost,F1 Score,0.8045977011494253
+Electricity Forecasting,LightGBM,MAE,0.306604885742446
